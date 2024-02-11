@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cm-activeLine,
+.cm-activeLineGutter {
+  background-color: #ffffff0d !important;
+}
+
+.cm-gutters {
+  background-color: #1f2228c6 !important;
+  border: none !important;
+}
+.cm-gutterElement{
+  color:#fff!important
+}
+.react-tabs__tab-panel:not(.react-tabs__tab-panel--selected) {
+  display: none;
+}
+
+.notify {
+  background: #232324;
+  color: #f3f4f6;
+}
+
+
+
+#loader {
+  animation: loader 1s infinite ease-in-out;
+}
+
+@keyframes loader {
+  100% {
+    rotate: 360deg;
+  }
+}
+
+
+
+.tabs [aria-selected="false"]:hover {
+  background-color: #f3f4f61a;
+}
+

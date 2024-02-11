@@ -1,0 +1,51 @@
+{
+  "name": "nextjsts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@codemirror/commands": "^6.3.3",
+    "@codemirror/lang-json": "^6.0.1",
+    "@codemirror/state": "^6.4.0",
+    "@codemirror/view": "^6.24.0",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.9",
+    "@prisma/client": "^5.9.1",
+    "@reduxjs/toolkit": "^2.1.0",
+    "axios": "^1.6.7",
+    "bytes": "^3.1.2",
+    "clsx": "^2.1.0",
+    "cm6-theme-nord": "^0.2.0",
+    "codemirror": "^6.0.1",
+    "moment": "^2.30.1",
+    "next": "14.1.0",
+    "prisma": "^5.9.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-redux": "^9.1.0",
+    "react-spinners": "^0.13.8",
+    "react-tabs": "^6.0.2",
+    "react-toastify": "^10.0.4",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/bytes": "^3.1.4",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/uuid": "^9.0.8",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
