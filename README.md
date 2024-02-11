@@ -21,7 +21,7 @@ PostAi is a comprehensive platform that offers a service similar to Postman, whe
 - **Fully Responsive**: The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
 
 ## Project Link
-This project was built using Next.js, and you can explore the live demo at the following link: http://samespace.com/careers/backend-developer
+This project was built using Next.js, and you can explore the live demo at the following link: https://apitester-9rgn.onrender.com/
 
 
 
@@ -52,7 +52,9 @@ To contribute to the development of PostAi, follow these steps:
 
 ## Preview
   ***Project Images***
-
+![mobile](https://github.com/itsmeSuhail/PostAi_Project/assets/98868023/d054adb7-27a9-490b-b68e-06a390e8f111)
+![mobile (1)](https://github.com/itsmeSuhail/PostAi_Project/assets/98868023/b239a132-df69-4758-9608-65cc2123b0b4)
+![mobile (2)](https://github.com/itsmeSuhail/PostAi_Project/assets/98868023/ba21c92e-7a9a-463e-b628-401e7d81defc)
 
 
 
